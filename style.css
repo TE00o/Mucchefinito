@@ -1,0 +1,26 @@
+a.visited {
+color: purple;
+}
+h3{
+text-decoration:underline;
+text-transform:capitalize;
+text-align:center;
+}
+h1 {
+text-align:center;
+text-decoration:underline;
+}
+div{
+	text-align:center;
+	font-family:calibri;
+	font-size:20px;
+	font-style:oblique;
+	padding-left:200px;
+	padding-right:200px;
+}
+html{
+	background:linear-gradient(to right,gray,white);
+}
+.indice {
+	text-align:center;
+}
